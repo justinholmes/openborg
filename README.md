@@ -11,3 +11,6 @@ It aims to deploy, monitor and scale applications on a choice of infrastructure.
 
 
 Could use buildpacks.
+
+
+https://github.com/kpelykh/docker-java
